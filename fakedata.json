@@ -1,0 +1,36 @@
+{
+	"item-lists": {
+	    "items": [
+	        {
+	            "title" : "Amazing Stories",
+	            "list-id": "ID-23",
+	            "items in list:": "12"
+	        },
+	        {
+	            "title" : "Adventure Times",
+	            "list-id": "ID-65",
+	            "items in list:": "34"
+	        },
+          {
+	            "title" : "Barn Stormers",
+	            "list-id": "ID-679",
+	            "items in list:": "18"
+	        },
+          {
+              "title" : "Best Children's Books 2017",
+              "list-id": "ID-9",
+              "items in list:": "18"
+          },
+          {
+              "title" : "Catalonia: An Homage To",
+              "list-id": "ID-33",
+              "items in list:": "33"
+          },
+          {
+              "title" : "Dystopia & Technology",
+              "list-id": "ID-7",
+              "items in list:": "45"
+          }
+	   ]
+	}
+}
